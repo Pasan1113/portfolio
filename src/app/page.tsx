@@ -317,7 +317,7 @@ export default function Home() {
                       width={112}
                       height={112}
                       priority
-                      className="h-full w-full scale-125 object-[center_35%]"
+                      className="h-full w-full object-[center_35%]"
                     />
                   </div>
                 </div>
