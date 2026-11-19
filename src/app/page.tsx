@@ -584,7 +584,7 @@ export default function Home() {
                   )}
                   {project.name === "Expense Tracker" && (
                     <a
-                      href="public/apk/ExpenseTracker.apk"
+                      href="/apk/ExpenseTracker.apk"
                       download="ExpenseTracker.apk"
                       className="mt-8 inline-flex items-center gap-2 rounded-xl bg-violet-500 px-5 py-3 text-sm font-semibold text-white transition hover:bg-violet-600"
                     >
