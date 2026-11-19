@@ -312,7 +312,7 @@ export default function Home() {
                 <div className="mx-auto flex h-28 w-28 items-center justify-center rounded-3xl border border-violet-400/30 bg-gradient-to-br from-violet-500/20 to-sky-500/20 shadow-lg shadow-violet-500/10">
                   <div className="mx-auto h-28 w-28 overflow-hidden rounded-3xl border border-violet-400/30 shadow-lg shadow-violet-500/20">
                     <Image
-                      src="/src/images/profile.png"
+                      src="src/images/profile.png"
                       alt="Pasan Madushanka - Software Developer"
                       width={112}
                       height={112}
