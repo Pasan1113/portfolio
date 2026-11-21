@@ -312,7 +312,7 @@ export default function Home() {
                 <div className="mx-auto flex h-28 w-28 items-center justify-center rounded-3xl border border-violet-400/30 bg-gradient-to-br from-violet-500/20 to-sky-500/20 shadow-lg shadow-violet-500/10">
                   <div className="mx-auto h-28 w-28 overflow-hidden rounded-3xl border border-violet-400/30 shadow-lg shadow-violet-500/20">
                     <Image
-                      src="/profile.png"
+                      src="public/profile.png"
                       alt="Pasan Madushanka - Software Developer"
                       width={112}
                       height={112}
@@ -584,7 +584,7 @@ export default function Home() {
                   )}
                   {project.name === "Expense Tracker" && (
                     <a
-                      href="/apk/ExpenseTracker.apk"
+                      href="public/apk/ExpenseTracker.apk"
                       download
                       className="mt-8 inline-flex items-center gap-2 rounded-xl bg-violet-500 px-5 py-3 text-sm font-semibold text-white transition hover:bg-violet-600"
                     >
