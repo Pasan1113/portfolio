@@ -314,8 +314,8 @@ export default function Home() {
                     <Image
                       src="public/profile.png"
                       alt="Pasan Madushanka - Software Developer"
-                      width={112}
-                      height={112}
+                      width={200}
+                      height={200}
                       priority
                       className="h-full w-full object-cover"
                     />
